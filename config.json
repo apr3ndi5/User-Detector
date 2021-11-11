@@ -1,0 +1,18 @@
+{
+    "token": "USER_TOKEN",
+    "guild_id": "GUILD_ID",
+    "tts": {
+        "allusers": "true",
+        "userlist": "false"
+    },
+    "users": [
+        {
+            "id" :"USER_ID",
+            "audio" :"./soundFile.mp3"
+        },
+        {
+            "id" : "USER_ID",
+            "audio" :"./soundFile.mp3"
+        } 
+    ]
+}
